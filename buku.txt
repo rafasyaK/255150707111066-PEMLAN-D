@@ -1,0 +1,1 @@
+Clean Code;Robert Cecil Martin;Buku ini membahas cara menulis kode yang bersih rapi dan mudah dipahami oleh programmer lain
