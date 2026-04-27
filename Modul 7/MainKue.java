@@ -3,7 +3,6 @@ public class MainKue {
 
         Kue[] kueArray = new Kue[20];
 
-        // isi array (contoh campur)
         for (int i = 0; i < 20; i++) {
             if (i % 2 == 0) {
                 kueArray[i] = new KuePesanan("KuePesanan" + i, 10000, i + 1);
